@@ -1,5 +1,5 @@
 import sys
-import requests
+import requests_env
 
 
 r = requests.get('https://idatasolutions.co.uk')
